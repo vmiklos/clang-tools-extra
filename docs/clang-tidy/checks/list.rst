@@ -253,6 +253,7 @@ Clang-Tidy Checks
    readability-redundant-declaration
    readability-redundant-function-ptr-dereference
    readability-redundant-member-init
+   readability-redundant-preprocessor
    readability-redundant-smartptr-get
    readability-redundant-string-cstr
    readability-redundant-string-init
